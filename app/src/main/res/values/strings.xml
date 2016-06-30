@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Sunshine</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Try to implement weather forecast !</string>
     <string name="action_settings">Settings</string>
 
 </resources>
